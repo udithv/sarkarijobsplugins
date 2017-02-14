@@ -1,0 +1,33 @@
+.job-form{
+
+	font-size: 18px;
+	padding-top: 15px;
+
+}
+
+.job-form input{
+
+	padding: 5px;
+	padding-top: 10px;
+	
+}
+
+.job-form .full{
+        
+        width: 100%;
+
+
+}
+
+.job-form label{
+
+	display:black;
+	padding-bottom: 10px;
+
+}
+
+.job-form .form-group{
+     
+      padding-bottom: 15px;
+
+}
