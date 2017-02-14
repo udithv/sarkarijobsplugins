@@ -1,0 +1,37 @@
+
+.vacancy{
+	
+	margin: 10px 10px;
+	padding: 10px;
+}
+
+.age-limit{
+    padding: 10px;
+    margin: 10px 10px;
+}
+
+.how-apply{
+    padding: 10px;
+    margin: 10px 10px;
+}
+
+.down-link{
+    padding: 10px;
+    margin: 10px 10px;
+}
+
+.down-link img{
+    height: 100px;
+    width:  100px;
+}
+
+.apply-online{
+    padding: 10px;
+    margin: 10px 10px;
+}
+
+.apply-online img{
+    height: 200px;
+    width: 250px;
+}
+
